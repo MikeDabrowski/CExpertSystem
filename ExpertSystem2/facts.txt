@@ -1,0 +1,10 @@
+a = true
+b = false
+c = true
+d = false
+e = true
+f = true
+!a = false
+!b = true
+!d = true
+!f = false

@@ -1,0 +1,5 @@
+﻿  Source.c
+c:\users\mike2\dropbox\studia\jimp2\visualstudioprojects\expertsystem2\expertsystem2\source.c(180): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'char *'
+c:\users\mike2\dropbox\studia\jimp2\visualstudioprojects\expertsystem2\expertsystem2\source.c(198): warning C4101: 'toFind': unreferenced local variable
+c:\users\mike2\dropbox\studia\jimp2\visualstudioprojects\expertsystem2\expertsystem2\source.c(52): warning C4715: 'findFactIndex2': not all control paths return a value
+  ExpertSystem2.vcxproj -> C:\Users\mike2\Dropbox\studia\JIMP2\VisualStudioProjects\ExpertSystem2\Debug\ExpertSystem2.exe
